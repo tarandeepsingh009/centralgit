@@ -1,0 +1,172 @@
+[33mcommit a640e400379d616fd910dc6bdcc74be8ad7cc827[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e4f86bc 39912d9
+Author: Taran <Taran1@gmail.com>
+Date:   Sat Jun 5 19:09:56 2021 +0000
+
+    Hello
+    How r u
+
+[33mcommit e4f86bc75fca2fee2300fd2721079b64c76e2998[m
+Merge: 47999a2 e07e144
+Author: Taran <Taran1@gmail.com>
+Date:   Sat Jun 5 18:15:42 2021 +0000
+
+    Allow this
+    
+    Merge branch 'master' of https://github.com/aws/ec2-spot-instances-integrations-roadmap
+
+[33mcommit 47999a2a786b18bc60c977b98991641e4a45ce45[m
+Author: Taran <Taran1@gmail.com>
+Date:   Sat Jun 5 18:11:50 2021 +0000
+
+    Practice
+
+[33mcommit 39912d9a94fbc47e18d75a7eaba95efff6a92b80[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Noni <Noni@gmail.com>
+Date:   Sat Jun 5 12:14:55 2021 +0000
+
+    Singapore for practice
+
+[33mcommit 3d832bea2854a983f228031a6ed290f129240895[m
+Author: Taran <Taran@gmail.com>
+Date:   Sat Jun 5 11:58:50 2021 +0000
+
+    Notes for Practice
+
+[33mcommit 967742625fd00db8de55a51dfc0e0e54628b6a54[m
+Merge: 07fedc2 a2af143
+Author: Taran <Taran@gmail.com>
+Date:   Sat Jun 5 09:50:27 2021 +0000
+
+    Merge branch 'master' of https://github.com/tarand
+    
+    New Projest updated
+
+[33mcommit 07fedc20099be8f11c5047074b0022d0f8694cbb[m
+Author: Taran <Taran@gmail.com>
+Date:   Sat Jun 5 09:18:40 2021 +0000
+
+    ignore java and css files
+
+[33mcommit 3b01c9f574d6da1b00d8c27e5567d592cd483435[m
+Author: Taran <Taran@gmail.com>
+Date:   Sat Jun 5 09:08:47 2021 +0000
+
+    ignore file format
+
+[33mcommit a2af14325a7ab1deb553b639403146e131c4dd16[m
+Author: Noni <Noni@gmail.com>
+Date:   Sat Jun 5 08:01:28 2021 +0000
+
+    Commit from Singapore
+
+[33mcommit 6c97d79c3e3c600cb7ba565693625dbd9eb5437e[m
+Author: Taran <Taran@gmail.com>
+Date:   Sat Jun 5 06:55:55 2021 +0000
+
+    First commit file
+
+[33mcommit 02275ba4914639c179c7cd3e33e8d36af449cf85[m
+Author: Taran <Taran@gmail.com>
+Date:   Fri Jun 4 18:53:36 2021 +0000
+
+     My Second Code from Mumbai
+
+[33mcommit f4130962655af0e3b3d5f5aaafe4a23e46b3736b[m
+Author: Taran <Taran@gmail.com>
+Date:   Fri Jun 4 18:26:53 2021 +0000
+
+    My first commit from Mumbai
+
+[33mcommit e07e144f815d8ef213ed9a6ed2c2996f4765542c[m
+Merge: cbe1abd 10e8d5c
+Author: Chad Schmutzer <schmutze@amazon.com>
+Date:   Wed Jul 15 11:04:20 2020 -0700
+
+    Merge pull request #1 from fannheyward/patch-1
+    
+    chore(README): format
+
+[33mcommit 10e8d5c19eb7eccad66a6be8b7181026561e9340[m
+Author: Heyward Fann <fannheyward@users.noreply.github.com>
+Date:   Wed Jul 15 08:56:50 2020 +0800
+
+    chore(README): format
+
+[33mcommit cbe1abd0af9c51de68b4311dd0c89671bb97145c[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Tue Jul 14 14:37:18 2020 -0700
+
+    clarity on README
+
+[33mcommit de9f6aec803e8b59df68f200550ea0ae9f368373[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Tue Jul 14 13:26:54 2020 -0700
+
+    community issue template
+
+[33mcommit 87416f83056c5cc2c48107c7149ee8330ac2551a[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Tue Jul 14 13:26:02 2020 -0700
+
+    community issue template
+
+[33mcommit 35a0f1a5e6668e48e6ab8a7ec00ebb25a6571819[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Mon Jul 13 10:41:58 2020 -0700
+
+    readme updates
+
+[33mcommit e26910d70493bf0c56f27bf20272d401f654b629[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Mon Jul 13 10:41:28 2020 -0700
+
+    readme updates
+
+[33mcommit a14508c7b336b51a8153977fc8e51b9f75754c6d[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Mon Jul 13 09:48:10 2020 -0700
+
+    readme updates
+
+[33mcommit 8554f6fe617d33ee18fd618effa5c41f3105a355[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Mon Jul 13 09:47:36 2020 -0700
+
+    readme updates
+
+[33mcommit a3ffbbafa1fbdb71ed0d1e3608258934f30518a4[m
+Author: schmutze <schmutze@amazon.com>
+Date:   Mon Jul 13 09:46:41 2020 -0700
+
+    readme updates
+
+[33mcommit 948bffdc888d6f912d6fa11e15eb08e1304b8a1a[m
+Author: Chad Schmutzer <schmutze@amazon.com>
+Date:   Mon Jul 13 09:04:20 2020 -0700
+
+    Update README.md
+
+[33mcommit 0d6399d9783af1446364d6198b0baf0e1cfa13d7[m
+Author: Chad Schmutzer <schmutze@amazon.com>
+Date:   Mon Jul 13 09:02:35 2020 -0700
+
+    Update README.md
+
+[33mcommit 73f23ac4001453e5190ff416631ffa0a86cc268f[m
+Author: Chad Schmutzer <schmutze@amazon.com>
+Date:   Mon Jul 13 08:59:06 2020 -0700
+
+    Update README.md
+
+[33mcommit fd4b830b80179f4059899b71fe227345bd70ba9f[m
+Author: Chad Schmutzer <schmutze@amazon.com>
+Date:   Wed Jul 8 13:55:05 2020 -0700
+
+    Update README.md
+
+[33mcommit e36bf439cb0d74947bfa70ff83a485ca57a92e03[m
+Author: Amazon GitHub Automation <54958958+amazon-auto@users.noreply.github.com>
+Date:   Mon Jul 6 14:27:07 2020 -0700
+
+    Initial commit
